@@ -7,8 +7,6 @@ Learning-Markdown (Markdown 入门参考)
 
 - - -
 
-**提醒：** 你可以打开 [这个链接](https://github.com/LearnShare/Learning-Markdown/edit/master/README.md) 在线编辑该文档，然后点击 `Preview changes` 查看编辑后的效果，这会帮助你快速练习 Markdown 的语法（请不要点击保存）。
-
 关于Markdown
 ---------------
 
@@ -369,13 +367,3 @@ Update：在 2013-04-18 日，MarkdownPad 2.1.13 的升级中解决了我所提�
 [wiki-markdown]: http://zh.wikipedia.org/zh-cn/Markdown "Wiki Markdown"
 [xbeta-markdown]: http://xbeta.org/wiki/show/Markdown "XBeta Wiki Markdown"
 
-十三、共享协议
---------------
-
-本文由 [LearnShare][learnshare] 整理并在 [CC BY-SA 3.0][CC] 协议下发布，主要为了给自己和各位朋友作为学习 Markdown 的入门及参考资料。
-
-请各位遵循 [Markdown: License][license] 及其它参考文献的共享协议来使用、修改和发布。
-
-[learnshare]: https://github.com/learnshare "LearnShare"
-[CC]: http://zh.wikipedia.org/wiki/Wikipedia:CC "Wiki: CC"
-[license]: http://daringfireball.net/projects/markdown/license "Markdown: License"
