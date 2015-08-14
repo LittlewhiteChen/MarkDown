@@ -3,8 +3,6 @@
 
 
 Learning-Markdown (Markdown 入门参考)
-===================================
-
 - - -
 
 关于Markdown
